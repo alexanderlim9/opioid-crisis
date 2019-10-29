@@ -4,3 +4,5 @@ Final project for _JRNL 6341: Telling Your Story with Data_ taught by Matt Carro
 
 - `Joshua Qualls` - Writing, photography
 - `Alexander Lim` - Design, development, data analysis/visualization
+
+Read more about this project on my [portfolio](https://alexanderlim.io/projects/opioid-crisis/).
