@@ -1,0 +1,45 @@
+svg {
+    font-family: Sans-Serif, Arial;
+}
+.line {
+    stroke-width: 2;
+    stroke: #154254;
+    fill: none;
+}
+
+.axis text {
+    fill: slategray;
+}
+
+.tick line {
+    stroke: slategray
+}
+.axis path {
+    stroke: slategray;
+}
+
+.text {
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 12px;
+    fill: #d3d3d3;
+}
+
+.state-name-text {
+    font-family: 'Libre Baskerville', 'sans-serif';
+    font-size: 24px;
+    font-weight: bold;
+    fill: #154254;
+}
+
+.percent-change-text {
+    font-family: 'Roboto', 'sans-serif';
+    font-weight: bold;
+    font-size: 16px;
+    fill: #154254;
+}
+
+.start-years-text, .stop-years-text {
+    font-family: 'Roboto', 'sans-serif';
+    font-size: 12px;
+    fill: slategray;
+}
